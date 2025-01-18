@@ -1,15 +1,15 @@
 # SolenoidTrigger5V UNIT
 
-<img src="https://github.com/akita11/SolenoidTrigger5V_UNIT/blob/main/https://github.com/akita11/SolenoidTrigger5VUNIT.jpg" width="240px">
+<img src="https://github.com/akita11/SolenoidTrigger5V_UNIT/blob/main/SolenoidTrigger5VUNIT.jpg" width="240px">
 
 5V電源のみで[タカハのスリムロック](https://www.takaha.co.jp/co/product-slim-lock/)など12V程度以上の高い電圧が必要な負荷を、コンデンサに蓄積したエネルギーで短時間駆動できるユニットです。駆動後は、繰り返しエネルギーを充電して駆動することができます。なおスリムロックの開閉状態をGrove端子から計測するための接続端子もあります。
 
 
 ## 使い方（接続方法）
 
-<img src="https://github.com/akita11/SolenoidTrigger5V_UNIT/blob/main/https://github.com/akita11/SolenoidTrigger5VUNIT_wiring1.jpg" width="240px">
+<img src="https://github.com/akita11/SolenoidTrigger5V_UNIT/blob/main/SolenoidTrigger5VUNIT_wiring1.jpg" width="240px">
 
-<img src="https://github.com/akita11/SolenoidTrigger5V_UNIT/blob/main/https://github.com/akita11/SolenoidTrigger5VUNIT_wiring2.jpg" width="240px">
+<img src="https://github.com/akita11/SolenoidTrigger5V_UNIT/blob/main/SolenoidTrigger5VUNIT_wiring2.jpg" width="240px">
 
 オレンジの端子に、以下のように負荷を接続します。
 - スリムロックのソレノイド（白ワイヤ）: 基板裏面"SOL"側（極性なし）
@@ -29,7 +29,7 @@ Grove端子のp2（コネクタのVDD側）は、ST端子がショート時に�
 
 ## 動作モードの設定
 
-<img src="https://github.com/akita11/SolenoidTrigger5V_UNIT/blob/main/https://github.com/akita11/SolenoidTrigger5VUNIT_jumper.jpg" width="240px">
+<img src="https://github.com/akita11/SolenoidTrigger5V_UNIT/blob/main/SolenoidTrigger5VUNIT_jumper.jpg" width="240px">
 
 基板裏面のJP1によって、動作モードを切り替えることができます。必要に応じて半田を盛ってショートさせてください。
 
