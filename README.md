@@ -7,7 +7,9 @@
 
 ## 使い方（接続方法）
 
-<img src="https://github.com/akita11/SolenoidTrigger5V_UNIT/blob/main/https://github.com/akita11/SolenoidTrigger5VUNIT_wiring.jpg" width="240px">
+<img src="https://github.com/akita11/SolenoidTrigger5V_UNIT/blob/main/https://github.com/akita11/SolenoidTrigger5VUNIT_wiring1.jpg" width="240px">
+
+<img src="https://github.com/akita11/SolenoidTrigger5V_UNIT/blob/main/https://github.com/akita11/SolenoidTrigger5VUNIT_wiring2.jpg" width="240px">
 
 オレンジの端子に、以下のように負荷を接続します。
 - スリムロックのソレノイド（白ワイヤ）: 基板裏面"SOL"側（極性なし）
