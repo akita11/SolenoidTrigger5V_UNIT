@@ -32,9 +32,9 @@ Grove端子のp2（コネクタのVDD側）は、ST端子がショート時に�
 
 ### UIFlow(v1)用のカスタムブロック
 
-<img src="https://github.com/akita11/SolenoidTrigger5V_UNIT/blob/main/SolenoidTrigger5VUNIT-1.jpg" width="240px">
+<img src="https://github.com/akita11/SolenoidTrigger5V_UNIT/blob/main/SolenoidTrgger5VUNIT_test_Core2.png" width="240px">
 
-UIFlow(v1)で、Customから"SolenoidTrigger5V.m5b"を読み込むと、"SolenoidTrigger5VUnit"内の3つのブロックが使えるようになります。
+UIFlow(v1)で、Customから"SolenoidTrigger5V.m5b"を読み込むと、"SolenoidTrigger5VUnit"内の3つのブロックが使えるようになります。（上図はこれを読み込んだあと、"SolenoidTrgger5VUNIT_test_Core2.m5f"を読み込んだ例）
 
 - Init : 解除信号(Groveのp1端子:CtrlPin)とST端子状態(Groveのp2端子:StatusPin)のピン番号を指定します。最初に1回だけ実行します。例：Core2のPortAはp1=GPIO33、p2=GPIO32なので、この図のように指定します。その他の機種・ポートのピン番号は仕様を確認してください。
 - Unlock : ロック解除を行います
